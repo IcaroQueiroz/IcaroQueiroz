@@ -23,5 +23,14 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
 
-<br><br>
 
+## ⚙️ &nbsp;GitHub Analytics
+
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=IcaroQueiroz&show_icons=true&theme=vision-friendly-dark" alt="IcaroQueioz's stats"/>
+</p>
+
+
+<!--
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IcaroQueiroz&layout=compact&theme=vision-friendly-dark" alt="IcaroQueiroz's most languages"/>
+-->

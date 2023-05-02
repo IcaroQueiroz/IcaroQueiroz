@@ -27,7 +27,7 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=IcaroQueiroz&show_icons=true&theme=vision-friendly-dark" alt="IcaroQueioz's stats"/>
+<img width="680em" src="https://github-readme-stats.vercel.app/api?username=IcaroQueiroz&show_icons=true&theme=vision-friendly-dark" alt="IcaroQueioz's stats"/>
 </p>
 
 

@@ -1,4 +1,4 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Ícaro Queiroz</h1>
+<h1 align="left">Hello world, i'm Ícaro Queiroz</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=IcaroQueiroz&color=yellow" alt="Profile views" /> </p>
 
 * 🌍  I'm based in Pernambuco, Brazil
